@@ -8,7 +8,8 @@
 [![Gitter chat](https://badges.gitter.im/AR-js/Lobby.png)](https://gitter.im/AR-js/Lobby)
 
 - **Objetivos** 
-1. Realizar un wireframe con mejoras de esta página:https://www.metrocuadrado.com/proyecto/viu-park/1821-C00002-08 
+1. Realizar un wireframe con mejoras de esta página:https://www.metrocuadrado.com/proyecto/viu-park/1821-C00002-08
+
 2.Wireframe  [Ver aquí](https://marvelapp.com/b2a26j1)
 
 **Gracias por ver!** 
